@@ -1,0 +1,16 @@
+F:\GitHub\AdventOfCode2021\DAY2\bin\Debug\net5.0\DAY2.exe
+F:\GitHub\AdventOfCode2021\DAY2\bin\Debug\net5.0\DAY2.deps.json
+F:\GitHub\AdventOfCode2021\DAY2\bin\Debug\net5.0\DAY2.runtimeconfig.json
+F:\GitHub\AdventOfCode2021\DAY2\bin\Debug\net5.0\DAY2.runtimeconfig.dev.json
+F:\GitHub\AdventOfCode2021\DAY2\bin\Debug\net5.0\DAY2.dll
+F:\GitHub\AdventOfCode2021\DAY2\bin\Debug\net5.0\ref\DAY2.dll
+F:\GitHub\AdventOfCode2021\DAY2\bin\Debug\net5.0\DAY2.pdb
+F:\GitHub\AdventOfCode2021\DAY2\obj\Debug\net5.0\DAY2.csproj.AssemblyReference.cache
+F:\GitHub\AdventOfCode2021\DAY2\obj\Debug\net5.0\DAY2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\AdventOfCode2021\DAY2\obj\Debug\net5.0\DAY2.AssemblyInfoInputs.cache
+F:\GitHub\AdventOfCode2021\DAY2\obj\Debug\net5.0\DAY2.AssemblyInfo.cs
+F:\GitHub\AdventOfCode2021\DAY2\obj\Debug\net5.0\DAY2.csproj.CoreCompileInputs.cache
+F:\GitHub\AdventOfCode2021\DAY2\obj\Debug\net5.0\DAY2.dll
+F:\GitHub\AdventOfCode2021\DAY2\obj\Debug\net5.0\ref\DAY2.dll
+F:\GitHub\AdventOfCode2021\DAY2\obj\Debug\net5.0\DAY2.pdb
+F:\GitHub\AdventOfCode2021\DAY2\obj\Debug\net5.0\DAY2.genruntimeconfig.cache
