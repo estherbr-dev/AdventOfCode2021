@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = DAY2
-build_property.ProjectDir = f:\GitHub\AdventOfCode2021\DAY2\
+build_property.RootNamespace = DAY3
+build_property.ProjectDir = F:\GitHub\AdventOfCode2021\DAY3\
