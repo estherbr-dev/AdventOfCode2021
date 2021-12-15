@@ -1,0 +1,15 @@
+T:\GITHUB\AdventOfCode2021\DAY4\bin\Debug\net6.0\DAY4.exe
+T:\GITHUB\AdventOfCode2021\DAY4\bin\Debug\net6.0\DAY4.deps.json
+T:\GITHUB\AdventOfCode2021\DAY4\bin\Debug\net6.0\DAY4.runtimeconfig.json
+T:\GITHUB\AdventOfCode2021\DAY4\bin\Debug\net6.0\DAY4.dll
+T:\GITHUB\AdventOfCode2021\DAY4\bin\Debug\net6.0\ref\DAY4.dll
+T:\GITHUB\AdventOfCode2021\DAY4\bin\Debug\net6.0\DAY4.pdb
+T:\GITHUB\AdventOfCode2021\DAY4\obj\Debug\net6.0\DAY4.csproj.AssemblyReference.cache
+T:\GITHUB\AdventOfCode2021\DAY4\obj\Debug\net6.0\DAY4.GeneratedMSBuildEditorConfig.editorconfig
+T:\GITHUB\AdventOfCode2021\DAY4\obj\Debug\net6.0\DAY4.AssemblyInfoInputs.cache
+T:\GITHUB\AdventOfCode2021\DAY4\obj\Debug\net6.0\DAY4.AssemblyInfo.cs
+T:\GITHUB\AdventOfCode2021\DAY4\obj\Debug\net6.0\DAY4.csproj.CoreCompileInputs.cache
+T:\GITHUB\AdventOfCode2021\DAY4\obj\Debug\net6.0\DAY4.dll
+T:\GITHUB\AdventOfCode2021\DAY4\obj\Debug\net6.0\ref\DAY4.dll
+T:\GITHUB\AdventOfCode2021\DAY4\obj\Debug\net6.0\DAY4.pdb
+T:\GITHUB\AdventOfCode2021\DAY4\obj\Debug\net6.0\DAY4.genruntimeconfig.cache
